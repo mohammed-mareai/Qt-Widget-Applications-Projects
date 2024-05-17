@@ -1,1 +1,1 @@
-
+This application is a calculator. This calculator can solve multiple operations at once. It can detect multiplication and division in the input and perform them before addition and subtraction. This calculator can deal with brackets as well in the input. 
