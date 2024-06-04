@@ -7,6 +7,7 @@ This application provides the following functionality:
 5. The user can remove a day (attendance column).
 6. The user can select a class using a combo box and the class will be shown in a table view.
 7. The user can edit the data inside the database directly from the table view using a Radio Button to allow editing.
-8. The user can search for a name inside a class. 
+8. The user can search for a name inside a class.
+9. Finally, the user can export the table for one class to CSV file. 
 
 The application has most functions to interact with SQL databases using QT.
