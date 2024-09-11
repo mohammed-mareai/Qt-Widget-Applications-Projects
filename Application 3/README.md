@@ -15,7 +15,7 @@ This program is designed as an English writing test application. Its functionali
    - If time runs out while the writing window is still open, the program will automatically close. The test file will be saved in the specified location with either a "successful" or "failed" label based on the word count.
 
 4. **File Encoding**:
-   - The test file is encoded using UFI64 and Chinese characters to prevent tampering or copying.
+   - The test file is encoded using Base64 and Chinese characters to prevent tampering or copying.
    - Both the user and the examiner can decode the file to reveal the written content. The decoded file is automatically saved to the desktop path. 
 
 5. **Exam Integrity**:
