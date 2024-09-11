@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/enter.jpg</file>
+        <file>icons/mainWindow.jpg</file>
+    </qresource>
+</RCC>
