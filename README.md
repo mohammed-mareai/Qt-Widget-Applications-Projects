@@ -1,4 +1,4 @@
-# My Qt-Based Projects
+# Qt-Based Projects
 
 This repository contains three projects that showcase the use of **Qt** programming with **C++**, integrating functionalities such as SQL database management, file handling, data processing, and more.
 
