@@ -25,7 +25,7 @@ This application is designed as an exam tool for testing English writing skills.
 - File encoding using **Base64** and Chinese characters
 - Decoding for examiners to review the results
 
-## Technologies Used
+## Concepts Used
 - **Qt Framework**: For building cross-platform GUI applications in C++.
 - **C++**: Core programming language used to implement logic and functionality.
 - **SQL**: Database interaction for data management (attendance recording).
