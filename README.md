@@ -11,14 +11,14 @@ This is an advanced calculator that handles multiple operations and adheres to t
 - Floating-point precision
 - Input validation and error handling
 
-### 2. Application 2 **Attendance Recording Software** 
+### 2. Application 2 **Attendance Recorder** 
 An attendance management system that allows the user to create and manage class data. The application interacts with SQL databases for class and student management, and it enables the user to record attendance, edit data, and export tables to CSV. Key functionalities include:
 - Class creation, deletion, and renaming
 - Student data import via CSV files
 - Attendance tracking with date and time labels
 - Search, edit, and export options using SQL databases
 
-### 3. Application 3 **English Writing Test Program** 
+### 3. Application 3 **English Writing Tester** 
 This application is designed as an exam tool for testing English writing skills. It allows users to input a set number of words and a time limit, then takes the user to a full-screen writing environment. The program records the writing and saves the results as encoded files to ensure integrity. Features include:
 - Full-screen test mode
 - Automatic word count and time tracking
